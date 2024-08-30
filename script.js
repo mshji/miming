@@ -56,7 +56,8 @@ const fortunes = [
   "...",
   "wana ma shy type nasad ko ani",
   "...",
-  "..."
+  "...",
+  "BYEEE"
   
 
 ];
