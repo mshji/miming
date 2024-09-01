@@ -19,8 +19,8 @@ body {
 
 /* iPhone 15 Pro Frame */
 .iphone-frame {
-  width: 375px; /* Standard width for iPhone 15 Pro */
-  height: 812px; /* Standard height for iPhone 15 Pro */
+  width: 350px; /* Standard width for iPhone 15 Pro */
+  height: 700px; /* Standard height for iPhone 15 Pro */
   background-color: #000;
   border-radius: 40px;
   padding: 20px;
